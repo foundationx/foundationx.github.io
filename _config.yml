@@ -4,3 +4,4 @@ plugins:
 
 title: [Foundaton X]
 description: [Cooperations github home]
+theme: jekyll-theme-slate
